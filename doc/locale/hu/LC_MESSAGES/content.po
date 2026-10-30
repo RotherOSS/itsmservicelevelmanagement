@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: OTOBO Installation Guide rel-11.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-16 10:00+0200\n"
-"PO-Revision-Date: 2026-10-13 14:41+0000\n"
+"PO-Revision-Date: 2026-10-30 02:41+0000\n"
 "Last-Translator: Balázs Úr <balazs@urbalazs.hu>\n"
 "Language-Team: Hungarian <http://translate.otobo.org/projects/otobo-11-1/"
 "addons/manuals/itsmservicelevelmanagement-documentation/hu/>\n"
@@ -31,7 +31,7 @@ msgstr "Leírás"
 
 #: ../../content/index.rst:20
 msgid "The OTOBO::ITSM Service Level Management package."
-msgstr ""
+msgstr "Az OTOBO::ITSM szolgáltatásszint-menedzsment csomag."
 
 #: ../../content/index.rst:23
 msgid "System requirements"
